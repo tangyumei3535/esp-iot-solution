@@ -1,0 +1,8 @@
+出厂固件使用方法
+
+1、上电进入用户固件 iperf 官方例程。
+2、五连击 BOOT 键芯片自动重启，进入工厂测试 Simple Test 模式。
+3、Simple Test 模式下：
+ - 单击 BOOT 键切换 LED 灯状态
+ - 长按 BOOT 键全信道 Wi-Fi scan
+ - 单击 RESET 键重启回到用户固件
